@@ -6,11 +6,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 [Screenshot](#screenshot)
+
 [Built with](#built-with)
+
 [Author](#author)
 
 ### Screenshot
-[](./design/desktop-design.jpg)
+![](./design/desktop-design.jpg)
 
 
 ### Built with
